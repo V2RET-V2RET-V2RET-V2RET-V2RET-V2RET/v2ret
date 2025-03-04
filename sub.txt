@@ -1,3 +1,4 @@
+vless://2dc07423-d7df-4516-bae6-7bf6ae040fa8@g.soskom.ir:11045?mode=gun&security=reality&encryption=none&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&spx=%2F&type=grpc&serviceName=Tel%20%3A%20%40NT_Safe&sni=yahoo.com&sid=20db1be5e1ab118a#v2ret%20%E2%9B%85%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#%40v2ret%20%E2%9B%85%EF%B8%8F-
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.125:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%AEv2ret%20%E2%93%90%E2%93%91_%E2%9E%87%E2%9E%83%E2%9E%80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#v2ret%20%E2%9B%85%EF%B8%8F
