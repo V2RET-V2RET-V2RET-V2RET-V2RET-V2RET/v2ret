@@ -1,1 +1,2 @@
 vless://d7f8fb85-a467-4c31-850e-a439a65e12bb@g.soskom.ir:11045?mode=gun&security=reality&encryption=none&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&spx=%2F&type=grpc&serviceName=Tel%20%3A%20%40NT_Safe&sni=yahoo.com&sid=20db1be5e1ab118a#%40v2ret%20%E2%9B%85%EF%B8%8F
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.125:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2ret%20%E2%9B%85%EF%B8%8F-
