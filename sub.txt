@@ -1,6 +1,4 @@
-vless://8e7981a8-bdf4-44a3-afd1-6b9ead519f9b@g.soskom.ir:11045?mode=gun&security=reality&encryption=none&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&spx=%2F&type=grpc&serviceName=Tel%20%3A%20%40NT_Safe&sni=yahoo.com&sid=20db1be5e1ab118a#%40v2ret%20%E2%9B%85%EF%B8%8F-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.125:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2ret%20%E2%9B%85%EF%B8%8F-
-vless://0b6dff92-4851-4122-b9c8-0036dd864b7d@188.34.201.88:16072?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20v2ret
-vless://3a857328-3b53-4333-85b2-a6f2aa22ceb7@23.88.62.209:2089?security=reality&encryption=none&pbk=bvEBes1y2n6327dEgJyZTR6Xz_EuyfLdkEX7DxWGFFg&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e3c5c005cae07eb8#%F0%9F%87%A9%F0%9F%87%AA%20v2ret
-vless://ad14a642-09d6-4fc2-8b76-7cd7e27b5bcd@135.181.155.147:40240?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20v2ret
-vless://1615755b-e266-4e68-be74-acc3e21bdc19@151.101.194.133:80?mode=auto&security=none&encryption=none&host=ge.ir&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20v2ret
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#v2ret%20%F0%9F%87%A9%F0%9F%87%AA%20free
+vless://631b226a-1529-4345-9c55-a2b89757691e@g.soskom.ir:11045?mode=gun&security=reality&encryption=none&pbk=p-FNeH1T5de5nmwI7iT16MQKWspQ0b6C9GGSRwGtlnM&fp=chrome&spx=%2F&type=grpc&serviceName=Tel%20%3A%20%40NT_Safe&sni=yahoo.com&sid=20db1be5e1ab118a#v2ret%20%F0%9F%87%A9%F0%9F%87%AA%20free
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.20.129.2:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#v2ret%20%F0%9F%87%A9%F0%9F%87%AA%20free
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.125:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2ret%20%E2%9B%85%EF%B8%8F%20free
